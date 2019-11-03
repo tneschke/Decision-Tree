@@ -9,5 +9,5 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
 ## Usage
 
 ```bash
-java HW3 <train file> <test file> <maximum instances per leaf> <maximum depth>
+java DecisionTree <train file> <test file> <maximum instances per leaf> <maximum depth>
 ```
